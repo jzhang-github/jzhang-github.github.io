@@ -4,11 +4,11 @@ Ph.D. student in Department of Mechanical Engineering of City University of Hong
 
 Click my [CityU page](https://scholars.cityu.edu.hk/en/persons/jun-zhang(73e8f2f2-8e1e-49fd-a71f-104fa6cb7c17).html) for more information.
 
-//: markdown文件教程：https://www.jianshu.com/p/9ae7aef34470
+*[^_^]: markdown文件教程：https://www.jianshu.com/p/9ae7aef34470
 
-//： You can use the [editor on GitHub](https://github.com/jzhang-github/jzhang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+*[^_^]: You can use the [editor on GitHub](https://github.com/jzhang-github/jzhang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-//：Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*[^_^]:Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
