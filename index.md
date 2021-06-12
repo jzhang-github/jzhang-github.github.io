@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## ZHANG Jun
+
+Ph.D. student in Department of Mechanical Engineering of City University of Hong Kong. (Sept., 1, 2021)
 
 You can use the [editor on GitHub](https://github.com/jzhang-github/jzhang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
