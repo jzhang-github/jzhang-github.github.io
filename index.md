@@ -8,13 +8,13 @@ Click my [CityU page](https://scholars.cityu.edu.hk/en/persons/jun-zhang(73e8f2f
 
 *[^_^]: You can use the [editor on GitHub](https://github.com/jzhang-github/jzhang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-*[^_^]:Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*[^_^]: Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 *[^_^]: ### Markdown
 
 *[^_^]: Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-*[^_^]: ```markdown
+*[^_^]: ```markdown```
 *[^_^]: Syntax highlighted code block
 *[^_^]: 
 *[^_^]: # Header 1
@@ -30,7 +30,7 @@ Click my [CityU page](https://scholars.cityu.edu.hk/en/persons/jun-zhang(73e8f2f
 *[^_^]: **Bold** and _Italic_ and `Code` text
 *[^_^]: 
 *[^_^]: [Link](url) and ![Image](src)
-*[^_^]: ```
+*[^_^]: ``` ```
 *[^_^]: 
 *[^_^]: For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 *[^_^]: 
