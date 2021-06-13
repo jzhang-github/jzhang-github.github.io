@@ -1,4 +1,4 @@
-# Research interests
+# Research Interests
 
 **Deisgn high-entropy materials via machine learning**
 
@@ -9,8 +9,21 @@
 **Heterogeneous catalysis**
 <br/><br/>
 
+
+
+
+# Websites & Social Links
+[CityU page](https://scholars.cityu.edu.hk/en/persons/jun-zhang(73e8f2f2-8e1e-49fd-a71f-104fa6cb7c17).html)
+
+[ResearchGate](https://www.researchgate.net/profile/Jun-Zhang-369)
+
+[ORCID](https://orcid.org/0000-0001-8872-6153)
+
+[GitHub](https://github.com/jzhang-github)
+
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57216517193)
+
 # Contact
-Click my [CityU page](https://scholars.cityu.edu.hk/en/persons/jun-zhang(73e8f2f2-8e1e-49fd-a71f-104fa6cb7c17).html) for more information.
 
 **Email:** j.zhang@my.cityu.edu.hk
 
