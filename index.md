@@ -1,4 +1,5 @@
-## Contact me
+Click my [CityU page](https://scholars.cityu.edu.hk/en/persons/jun-zhang(73e8f2f2-8e1e-49fd-a71f-104fa6cb7c17).html) for more information.
+
 **Email:** j.zhang@my.cityu.edu.hk
 
 **Phone:** (852) 6731 5093
@@ -8,7 +9,7 @@
 
 *[^_^]: Ph.D. student in Department of Mechanical Engineering of City University of Hong Kong.
 
-Click my [CityU page](https://scholars.cityu.edu.hk/en/persons/jun-zhang(73e8f2f2-8e1e-49fd-a71f-104fa6cb7c17).html) for more information.
+
 
 *[^_^]: markdown文件教程：https://www.jianshu.com/p/9ae7aef34470
 
