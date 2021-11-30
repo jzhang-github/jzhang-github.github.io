@@ -25,7 +25,7 @@ For now, this script can only convert a cuboid box.
 
 ```lasp_in_file```：Lasp in文件名称（选填）。若不填，默认读取```lasp.in```文件。
 
-## 2、POSCAR转化为arc文件
+## 2、举例：POSCAR转化为arc文件
 ```
 python  PosAndArc.py POSCAR
 ```
@@ -35,7 +35,7 @@ Converting vasp file to arc file...
 ```
 ### 文件输出：
 ```lasp.in```：若工作文件夹内包含同名文件，则在新文件名后追加```_new```，以免覆盖。
-## 3、arc转化为POSCAR文件
+## 3、举例：arc转化为POSCAR文件
 ```
 python  PosAndArc.py input.arc
 ```
