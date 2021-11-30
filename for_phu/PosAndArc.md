@@ -46,7 +46,7 @@ Converting arc file to vasp file...
 ### 文件输出：
 ```POSCAR```：若工作文件夹内包含同名文件，则在新文件名后追加```_new```，以免覆盖。
 
-## 其他：
+## 4、其他：
 脚本默认文件名称：
 * VASP格式：```POSCAR```
 * Material Studio 格式：```input.arc```
