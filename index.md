@@ -27,7 +27,7 @@
 
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57226619317)
 
-[Web of Science ID](https://publons.com/researcher/AAZ-6829-2021/)
+[Web of Science ID](https://www.webofscience.com/wos/author/record/2382039)
 
 
 # Contact
