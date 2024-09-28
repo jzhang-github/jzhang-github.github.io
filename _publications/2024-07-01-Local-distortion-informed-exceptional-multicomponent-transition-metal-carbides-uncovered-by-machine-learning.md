@@ -1,6 +1,7 @@
 ---
 title: "Local-distortion-informed exceptional multicomponent transition-metal carbides uncovered by machine learning"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-07-01-Local-distortion-informed-exceptional-multicomponent-transition-metal-carbides-uncovered-by-machine-learning
 excerpt: 'Publisher: Nature Publishing Group'
 date: 2024-07-01

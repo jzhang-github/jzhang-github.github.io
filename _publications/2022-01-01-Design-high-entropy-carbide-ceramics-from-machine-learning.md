@@ -1,6 +1,7 @@
 ---
 title: "Design high-entropy carbide ceramics from machine learning"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-Design-high-entropy-carbide-ceramics-from-machine-learning
 date: 2022-01-01
 venue: 'npj Computational Materials'

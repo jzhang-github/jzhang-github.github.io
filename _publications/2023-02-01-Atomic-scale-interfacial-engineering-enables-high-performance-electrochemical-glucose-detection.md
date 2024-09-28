@@ -1,6 +1,7 @@
 ---
 title: "Atomic-scale interfacial engineering enables high-performance electrochemical glucose detection"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-02-01-Atomic-scale-interfacial-engineering-enables-high-performance-electrochemical-glucose-detection
 date: 2023-02-01
 venue: 'Applied Surface Science'

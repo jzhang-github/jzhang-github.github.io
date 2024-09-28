@@ -1,6 +1,7 @@
 ---
 title: "Rational design of high-entropy ceramics based on machine learning – A critical review"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-Rational-design-of-high-entropy-ceramics-based-on-machine-learning-A-critical-review
 date: 2023-01-01
 venue: 'Current Opinion in Solid State and Materials Science'

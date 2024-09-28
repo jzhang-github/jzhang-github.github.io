@@ -1,6 +1,7 @@
 ---
 title: "High hydrogen isotopes permeation resistance in (TiVAlCrZr)O multi-component metal oxide glass coating"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-10-01-High-hydrogen-isotopes-permeation-resistance-in-TiVAlCrZrO-multi-component-metal-oxide-glass-coating
 date: 2022-10-01
 venue: 'Acta Materialia'

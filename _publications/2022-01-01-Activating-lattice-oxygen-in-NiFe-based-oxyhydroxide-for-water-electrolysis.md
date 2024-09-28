@@ -1,6 +1,7 @@
 ---
 title: "Activating lattice oxygen in NiFe-based (oxy)hydroxide for water electrolysis"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-Activating-lattice-oxygen-in-NiFe-based-oxyhydroxide-for-water-electrolysis
 date: 2022-01-01
 venue: 'Nature Communications'
