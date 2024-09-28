@@ -1,6 +1,7 @@
 ---
 title: "Elemental partitions and deformation mechanisms of L1$_textrm2$-type multicomponent intermetallics"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-01-01-Elemental-partitions-and-deformation-mechanisms-of-L1_textrm2-type-multicomponent-intermetallics
 date: 2021-01-01
 venue: 'Acta Materialia'

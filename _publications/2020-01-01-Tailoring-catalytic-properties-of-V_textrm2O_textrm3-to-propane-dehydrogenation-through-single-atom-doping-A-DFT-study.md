@@ -1,6 +1,7 @@
 ---
 title: "Tailoring catalytic properties of V$_textrm2$O$_textrm3$ to propane dehydrogenation through single-atom doping: A DFT study"
 collection: publications
+category: manuscripts
 permalink: /publication/2020-01-01-Tailoring-catalytic-properties-of-V_textrm2O_textrm3-to-propane-dehydrogenation-through-single-atom-doping-A-DFT-study
 date: 2020-01-01
 venue: 'Catalysis Today'
