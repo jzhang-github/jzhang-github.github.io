@@ -2,7 +2,7 @@
 permalink: /
 title: "Welcome my GitHub page!"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -13,15 +13,15 @@ redirect_from:
 
 I’m interested in:
 
-- **High-entropy energy materials**
-- **High-entropy structural materials**
-- **Machine learning**
-- **Deep graph attention networks**
-- **Deep-learning interatomic potentials**
-- **Density functional theory**
-- **_Ab initio_ molecular dynamics**
-- **Monte-Carlo simulation**
-- **Mechanical properties of high-entropy materials**
+- High-entropy energy materials
+- High-entropy structural materials
+- Machine learning
+- Deep graph attention networks
+- Deep-learning interatomic potentials
+- Density functional theory
+- _Ab initio_ molecular dynamics
+- Monte-Carlo simulation
+- Mechanical properties of high-entropy materials
 - ......
 
 
